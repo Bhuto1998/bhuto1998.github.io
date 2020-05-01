@@ -1,0 +1,20 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 40px solid #bdc3c7;
+	margin-left: 200px;
+	margin-right:200px;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+	background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg"); 
+}
+p{
+	border-left: 3px solid #bdc3c7 ;
+	
+}
+h4{
+	color: #3498db;
+}
+h2{
+	color:#2c3e50;
+}
